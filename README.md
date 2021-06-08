@@ -1,6 +1,6 @@
-#Projet Qt de Quentin BERITAULT
+# Projet Qt de Quentin BERITAULT
 
-##Exécuter le programme
+## Exécuter le programme
 
 Avant de commencer, pour faire fonctionner l’affichage des fenêtres graphiques avec WSL, vous devez installer un serveur
 d'affichage (appelé communément "serveur X" sous Linux). Cela permet de lancer des applications
@@ -25,7 +25,7 @@ cd cmake-build-debug/
 
 - Normalement une fenêtre de Mobaxterm s'ouvre, cliquez sur "Oui" puis la fenêtre du Jeu doit s'ouvrir.
 
-##But du jeu:
+## But du jeu:
 Le but du Jeu:
 
 Bouger Homer à gauche ou à droite pour qu'il évite de manger les donuts !
@@ -34,7 +34,7 @@ Pourquoi ? Tout simplement parce qu'il est en surpoids !
 
 Bonne chance !
 
-##Règles du jeu:
+## Règles du jeu:
 
 Les boutons:
 - Espace => Pour commencer la session de jeu (Donc seulement la première fois)
