@@ -1,0 +1,4 @@
+/mnt/c/Users/Admin/OneDrive/Bureau/beritault/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Admin/OneDrive/Bureau/beritault/cmake-build-debug/CMakeFiles/beritault.dir
+/mnt/c/Users/Admin/OneDrive/Bureau/beritault/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Admin/OneDrive/Bureau/beritault/cmake-build-debug/CMakeFiles/beritault_autogen.dir
