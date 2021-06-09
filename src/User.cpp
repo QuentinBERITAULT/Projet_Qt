@@ -4,7 +4,7 @@ User::User(){
     // Ce qui permet de créer la fenêtre pour écrire son pseudo ainsi que de l'écrire
     this->file = new QFile("../ressources/user.txt");
     this->setWindowTitle("Saisit du Pseudo");
-    this->setMinimumSize(200,50);
+    this->setMinimumSize(300,50);
 
     this->button = new QPushButton("Valider");
     this->label = new QLabel("Entrez votre pseudo :");
